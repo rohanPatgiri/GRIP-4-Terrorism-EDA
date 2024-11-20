@@ -1,6 +1,6 @@
 # Global Terrorism Data Analysis to identify high-risk regions and generate actionable insights
 
-- The folowing blog post provides a detailed, deep-dive explaination of the project : https://rohanrhpt2.substack.com/p/global-terrorism-data-analysis-to
+- The following blog post provides a detailed, deep-dive explaination of the project : https://rohanrhpt2.substack.com/p/global-terrorism-data-analysis-to
 - Below is a summary of the project
 ---
 PROBLEM STATEMENT/ SCENARIO
